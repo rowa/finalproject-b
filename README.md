@@ -9,6 +9,8 @@
 
 //请填入以下XX部分的内容
 //关于mark down语法及在线编辑，可参考https://www.mdeditor.com/
+//github基本用法参考：【腾讯文档】使用步骤
+https://docs.qq.com/doc/DR2tFek1YdGpNSG9X
 
 #个人基本信息
 
